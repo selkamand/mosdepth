@@ -24,3 +24,5 @@ Imports:
 Remotes: 
     selkamand/utilitybeltassertions,
     selkamand/utilitybeltgg
+URL: https://github.com/selkamand/mosdepth
+BugReports: https://github.com/selkamand/mosdepth/issues
