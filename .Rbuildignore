@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^mosdepth\.Rproj$
+^\.Rproj\.user$
+
+inst/mosdepth_test_files/E_coli.per-base.bedgraph
+inst/mosdepth_test_files/E_coli.sorted.bam
+inst/mosdepth_test_files/E_coli.sorted.bam.bai
+^LICENSE\.md$

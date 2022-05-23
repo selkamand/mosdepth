@@ -1,0 +1,26 @@
+Package: mosdepth
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sam", "El-Kamand", , "selkamand@ccia.org.au", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0003-2270-8088"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    assertthat,
+    dplyr,
+    ggplot2,
+    methods,
+    rlang,
+    utilitybeltassertions (>= 0.0.0.9000),
+    utilitybeltgg (>= 0.0.0.9000),
+    utils
+Remotes: 
+    selkamand/utilitybeltassertions,
+    selkamand/utilitybeltgg
